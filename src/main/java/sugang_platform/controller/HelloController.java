@@ -1,6 +1,5 @@
-package sugang_platform;
+package sugang_platform.controller;
 
-import jakarta.persistence.Id;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
